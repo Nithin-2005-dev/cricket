@@ -71,7 +71,6 @@ h1{
     height: fit-content;
     width: fit-content;
     padding: 1%;
-    border-radius: 2rem;
     box-shadow: 0.1rem 1rem 0.5rem rgba(70, 67, 67,0.5);
     border: 2px solid wheat;
 }
